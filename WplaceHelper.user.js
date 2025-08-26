@@ -7,7 +7,7 @@
 // @license      MPL-2.0
 // @supportURL   https://github.com/who100am/WplaceHelper/
 // @homepageURL  https://github.com/who100am/WplaceHelper/
-// @icon         https://i.postimg.cc/6p8HbXN6/Illuminati-triangle-eye-copy-32x32.png
+// @icon         https://raw.githubusercontent.com/who100am/WplaceHelper/refs/heads/main/Illuminati32x32.png
 // @updateURL    https://raw.githubusercontent.com/who100am/WplaceHelper/refs/heads/main/WplaceHelper.user.js
 // @downloadURL  https://raw.githubusercontent.com/who100am/WplaceHelper/refs/heads/main/WplaceHelper.user.js
 // @run-at       document-start
